@@ -90,6 +90,7 @@ hr {
 .contact-me {
     margin: 75px auto 0 auto;
     color: #40514E;
+    width: 40%;
 }
 
 .top-container {
@@ -108,7 +109,6 @@ hr {
 .bottom-container {
     background-color: #FAF4B7;
     padding: 30px 0 30px 0;
-
     color: #40514E;
 
 }
